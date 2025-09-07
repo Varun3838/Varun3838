@@ -60,11 +60,10 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p align="center" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika66-Gupta&layout=compact&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anshika66-Gupta&show_icons=true&theme=radical" alt="Anshika66-Gupta" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun S&layout=compact&show_icons=true&theme=radical" alt="Varun S" height="159" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Varun S&show_icons=true&theme=radical" alt="Varun S" height="159" />
 </p>
 <br>
-<p align="center" ><img align="center"  height="159" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshika66-Gupta&show_icons=true&locale=en&theme=radical" alt="Anshika66-Gupta" /></p>
+<p align="center" ><img align="center"  height="177" src="https://github-readme-streak-stats.herokuapp.com/?user=Varun S&show_icons=true&locale=en&theme=radical" alt="Varun S" /></p>
 
-Hi
 
