@@ -8,15 +8,15 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/techy-anshikagupta/" target="_blank">
+  <a href="https://www.linkedin.com/in/techy-varun/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/ANSHIKA71688056" target="_blank">
+  <a href="https://twitter.com/varuns" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://www.instagram.com/anshikagupta.tech?igsh=Nm1rZmR6NXBzcDV6&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/varuns.tech?igsh=Nm1rZmR6NXBzcDV6&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-D7008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
@@ -27,11 +27,11 @@
 
 - 🌱 I’m currently learning **Parallel Computation**
 
-- 👨‍💻 Know more about my projects & experiences at https://github.com/Anshika66-Gupta 
+- 👨‍💻 Know more about my projects & experiences at https://github.com/Varuns3838 
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux**
 
-- 📫 How to reach me **ansgupta.01@gmail.com**
+- 📫 How to reach me **varuns3838@gmail.com**
 
 
 **Languages and Tools:**  
